@@ -168,7 +168,7 @@ Dieses Projekt wurde als **Teamprojekt** entwickelt und basiert auf realistische
 
 ## 👨‍💻 Entwickler
 
-Projekt erstellt von: herrksissoumarouane-glitch
+Projekt erstellt von: Marouane
 
 ```
 
